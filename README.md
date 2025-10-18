@@ -1,0 +1,1 @@
+cleanAnimator.py currently holds all the code for the project, I'm working on properly modularizing it into a package but if you're looking for the whole thing working as intended, run cleanAnimator.py 
